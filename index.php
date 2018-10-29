@@ -50,7 +50,7 @@
 	  </ul>
 	</nav>
 	  
-	<div class="page">
+	<div class="page_content">
 		<?php include('frm_example.php'); ?>
 	</div>
 
